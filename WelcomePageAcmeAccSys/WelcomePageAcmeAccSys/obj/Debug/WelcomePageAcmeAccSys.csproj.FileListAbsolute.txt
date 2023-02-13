@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\WelcomePageAcmeAccSys\WelcomePageAcmeAccSys\bin\Debug\WelcomePageAcmeAccSys.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\WelcomePageAcmeAccSys\WelcomePageAcmeAccSys\bin\Debug\WelcomePageAcmeAccSys.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\WelcomePageAcmeAccSys\WelcomePageAcmeAccSys\bin\Debug\WelcomePageAcmeAccSys.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\WelcomePageAcmeAccSys\WelcomePageAcmeAccSys\obj\Debug\WelcomePageAcmeAccSys.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\WelcomePageAcmeAccSys\WelcomePageAcmeAccSys\obj\Debug\WelcomePageAcmeAccSys.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\WelcomePageAcmeAccSys\WelcomePageAcmeAccSys\obj\Debug\WelcomePageAcmeAccSys.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\WelcomePageAcmeAccSys\WelcomePageAcmeAccSys\obj\Debug\WelcomePageAcmeAccSys.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\WelcomePageAcmeAccSys\WelcomePageAcmeAccSys\obj\Debug\WelcomePageAcmeAccSys.pdb
