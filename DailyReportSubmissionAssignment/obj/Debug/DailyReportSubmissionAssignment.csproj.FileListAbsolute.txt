@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\DailyReportSubmissionAssignment\bin\Debug\DailyReportSubmissionAssignment.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\DailyReportSubmissionAssignment\bin\Debug\DailyReportSubmissionAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\DailyReportSubmissionAssignment\bin\Debug\DailyReportSubmissionAssignment.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\DailyReportSubmissionAssignment\obj\Debug\DailyReportSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\DailyReportSubmissionAssignment\obj\Debug\DailyReportSubmissionAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\DailyReportSubmissionAssignment\obj\Debug\DailyReportSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\DailyReportSubmissionAssignment\obj\Debug\DailyReportSubmissionAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\DailyReportSubmissionAssignment\obj\Debug\DailyReportSubmissionAssignment.pdb
