@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MathAndComparisonOperatorAssignment\bin\Debug\MathAndComparisonOperatorAssignment.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MathAndComparisonOperatorAssignment\bin\Debug\MathAndComparisonOperatorAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MathAndComparisonOperatorAssignment\bin\Debug\MathAndComparisonOperatorAssignment.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MathAndComparisonOperatorAssignment\obj\Debug\MathAndComparisonOperatorAssignment.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MathAndComparisonOperatorAssignment\obj\Debug\MathAndComparisonOperatorAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MathAndComparisonOperatorAssignment\obj\Debug\MathAndComparisonOperatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MathAndComparisonOperatorAssignment\obj\Debug\MathAndComparisonOperatorAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MathAndComparisonOperatorAssignment\obj\Debug\MathAndComparisonOperatorAssignment.pdb
