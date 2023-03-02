@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\Branching\bin\Debug\Branching.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\Branching\bin\Debug\Branching.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\Branching\bin\Debug\Branching.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\Branching\obj\Debug\Branching.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\Branching\obj\Debug\Branching.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\Branching\obj\Debug\Branching.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\Branching\obj\Debug\Branching.pdb
