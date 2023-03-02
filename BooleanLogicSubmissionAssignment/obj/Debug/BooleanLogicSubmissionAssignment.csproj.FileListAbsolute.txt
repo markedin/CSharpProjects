@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\BooleanLogicSubmissionAssignment\bin\Debug\BooleanLogicSubmissionAssignment.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\BooleanLogicSubmissionAssignment\bin\Debug\BooleanLogicSubmissionAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\BooleanLogicSubmissionAssignment\bin\Debug\BooleanLogicSubmissionAssignment.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\BooleanLogicSubmissionAssignment\obj\Debug\BooleanLogicSubmissionAssignment.pdb
