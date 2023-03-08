@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\Iteration\bin\Debug\Iteration.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\Iteration\bin\Debug\Iteration.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\Iteration\obj\Debug\Iteration.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\Iteration\obj\Debug\Iteration.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\Iteration\obj\Debug\Iteration.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\Iteration\obj\Debug\Iteration.pdb
