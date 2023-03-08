@@ -10,15 +10,23 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Pick a number.");
-        int numberOne = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("Pick a second number");
-        int numberTwo = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("Dividing the two");
-        int numberThree = numberOne / numberTwo;
-        Console.WriteLine(numberThree);
+        try
+        {
+            Console.WriteLine("Pick a number.");
+            int numberOne = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Pick a second number");
+            int numberTwo = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Dividing the two");
+            int numberThree = numberOne / numberTwo;
+            Console.WriteLine(numberThree);
 
-        Console.ReadLine();
+            Console.ReadLine();
+        }
+        
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
     }
 }
 

@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ExceptionHandling2\bin\Debug\ExceptionHandling2.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ExceptionHandling2\bin\Debug\ExceptionHandling2.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ExceptionHandling2\bin\Debug\ExceptionHandling2.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ExceptionHandling2\obj\Debug\ExceptionHandling2.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ExceptionHandling2\obj\Debug\ExceptionHandling2.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ExceptionHandling2\obj\Debug\ExceptionHandling2.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ExceptionHandling2\obj\Debug\ExceptionHandling2.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ExceptionHandling2\obj\Debug\ExceptionHandling2.pdb
