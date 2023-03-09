@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\CallingMethodsSubmission\bin\Debug\CallingMethodsSubmission.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\CallingMethodsSubmission\bin\Debug\CallingMethodsSubmission.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\CallingMethodsSubmission\bin\Debug\CallingMethodsSubmission.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\CallingMethodsSubmission\obj\Debug\CallingMethodsSubmission.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\CallingMethodsSubmission\obj\Debug\CallingMethodsSubmission.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\CallingMethodsSubmission\obj\Debug\CallingMethodsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\CallingMethodsSubmission\obj\Debug\CallingMethodsSubmission.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\CallingMethodsSubmission\obj\Debug\CallingMethodsSubmission.pdb
