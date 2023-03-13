@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.pdb
