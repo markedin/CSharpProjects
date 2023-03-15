@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\PolymorphismSubmissionAssignment\bin\Debug\PolymorphismSubmissionAssignment.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\PolymorphismSubmissionAssignment\bin\Debug\PolymorphismSubmissionAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\PolymorphismSubmissionAssignment\bin\Debug\PolymorphismSubmissionAssignment.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\PolymorphismSubmissionAssignment\obj\Debug\PolymorphismSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\PolymorphismSubmissionAssignment\obj\Debug\PolymorphismSubmissionAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\PolymorphismSubmissionAssignment\obj\Debug\PolymorphismSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\PolymorphismSubmissionAssignment\obj\Debug\PolymorphismSubmissionAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\PolymorphismSubmissionAssignment\obj\Debug\PolymorphismSubmissionAssignment.pdb
