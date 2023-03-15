@@ -17,6 +17,9 @@ namespace MethodClassSubmissionAssignment2
             //Pass in 4 and 7 into method by name
             DoTheMath.DoMath(integerOne: 4, integerTwo: 7);
 
+            //call the method, pass in two numbers
+            DoTheMath.DoMath(5, 8);
+
 
             Console.ReadLine();
         }
