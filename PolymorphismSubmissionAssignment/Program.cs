@@ -20,11 +20,10 @@ namespace PolymorphismSubmissionAssignment
             //Call SayName() method on emp (employee object)
             emp.SayName();
 
-            //create object employee object that inherits from person and IQuittable
-            Employee emp2 = new Employee();
-            //Call the Quit() method from the IQuittable class on emp2 (emp2 is the employee quitting,
-            //and also using this method)
-            emp2.Quit(emp2);
+            //create employee object as type IQuittable
+            IQuittable emp2 = new Employee();
+            //Call the Quit() method from the IQuittable class on emp as emp2
+            emp2.Quit(emp);
 
             Console.ReadLine();
         }
