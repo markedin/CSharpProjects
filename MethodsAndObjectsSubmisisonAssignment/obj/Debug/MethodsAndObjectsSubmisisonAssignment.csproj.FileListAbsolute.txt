@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MethodsAndObjectsSubmisisonAssignment\bin\Debug\MethodsAndObjectsSubmisisonAssignment.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MethodsAndObjectsSubmisisonAssignment\bin\Debug\MethodsAndObjectsSubmisisonAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MethodsAndObjectsSubmisisonAssignment\bin\Debug\MethodsAndObjectsSubmisisonAssignment.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MethodsAndObjectsSubmisisonAssignment\obj\Debug\MethodsAndObjectsSubmisisonAssignment.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MethodsAndObjectsSubmisisonAssignment\obj\Debug\MethodsAndObjectsSubmisisonAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MethodsAndObjectsSubmisisonAssignment\obj\Debug\MethodsAndObjectsSubmisisonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MethodsAndObjectsSubmisisonAssignment\obj\Debug\MethodsAndObjectsSubmisisonAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\MethodsAndObjectsSubmisisonAssignment\obj\Debug\MethodsAndObjectsSubmisisonAssignment.pdb
