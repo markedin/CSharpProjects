@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MethodClassSubmissionAssignment2
 {
-    internal class PerformMath
+    public class PerformMath
     {
         //Create a class with no return value (void), and pass in two integers
         public void DoMath(int integerOne, int integerTwo)
@@ -18,5 +18,15 @@ namespace MethodClassSubmissionAssignment2
             //Display the answer to the console
             Console.WriteLine(intOut);
         }
+
+
+        
+        
+            
+        
+        
+        
+        
+        
     }
 }
