@@ -34,6 +34,15 @@ namespace OperatorsSubmissionAssignment
             status = emp1 == emp2;
             //display comparsion results to console
             Console.WriteLine(status);
+            //now write string to console to use != operator
+            Console.WriteLine("Now we compare if the employee ids are different");
+            //set up status2 bool value
+            bool status2 = false;
+            //use comparison operators on employee objs
+            status2 = emp1 != emp2;
+            //Display resutls to console
+            Console.WriteLine(status2);
+
             Console.ReadLine();
 
 
