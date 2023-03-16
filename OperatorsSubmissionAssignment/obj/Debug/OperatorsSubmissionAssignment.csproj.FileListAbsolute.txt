@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\OperatorsSubmissionAssignment\bin\Debug\OperatorsSubmissionAssignment.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\OperatorsSubmissionAssignment\bin\Debug\OperatorsSubmissionAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\OperatorsSubmissionAssignment\bin\Debug\OperatorsSubmissionAssignment.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\OperatorsSubmissionAssignment\obj\Debug\OperatorsSubmissionAssignment.pdb
