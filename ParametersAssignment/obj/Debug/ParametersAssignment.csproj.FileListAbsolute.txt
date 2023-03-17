@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ParametersAssignment\bin\Debug\ParametersAssignment.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ParametersAssignment\bin\Debug\ParametersAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ParametersAssignment\bin\Debug\ParametersAssignment.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ParametersAssignment\obj\Debug\ParametersAssignment.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ParametersAssignment\obj\Debug\ParametersAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ParametersAssignment\obj\Debug\ParametersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ParametersAssignment\obj\Debug\ParametersAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ParametersAssignment\obj\Debug\ParametersAssignment.pdb

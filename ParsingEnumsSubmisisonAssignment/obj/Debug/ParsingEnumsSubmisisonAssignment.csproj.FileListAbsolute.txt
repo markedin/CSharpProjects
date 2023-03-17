@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ParsingEnumsSubmisisonAssignment\bin\Debug\ParsingEnumsSubmisisonAssignment.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ParsingEnumsSubmisisonAssignment\bin\Debug\ParsingEnumsSubmisisonAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ParsingEnumsSubmisisonAssignment\bin\Debug\ParsingEnumsSubmisisonAssignment.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ParsingEnumsSubmisisonAssignment\obj\Debug\ParsingEnumsSubmisisonAssignment.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ParsingEnumsSubmisisonAssignment\obj\Debug\ParsingEnumsSubmisisonAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ParsingEnumsSubmisisonAssignment\obj\Debug\ParsingEnumsSubmisisonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ParsingEnumsSubmisisonAssignment\obj\Debug\ParsingEnumsSubmisisonAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ParsingEnumsSubmisisonAssignment\obj\Debug\ParsingEnumsSubmisisonAssignment.pdb
