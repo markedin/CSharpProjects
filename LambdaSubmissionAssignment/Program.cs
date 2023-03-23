@@ -25,11 +25,12 @@ namespace LambdaSubmissionAssignment
                 new Employee() {firstName = "Walter", Id = 10, lastName = "Giddens"}
             };
 
+            //create a new list to add the "Joes" to 
+            List<Employee> joeList = new List<Employee>();
             //Create a foreach loop that will create a new list of all employees with the first name joe
             foreach (Employee employee in employees)
             {
-                //create a new list to add the "Joes" to 
-                List<Employee> joeList = new List<Employee>();
+                
                 //create an if statement to check if the current employee (in the foreach loop) has the first name joe
                 if (employee.firstName == "Joe")
                 {
