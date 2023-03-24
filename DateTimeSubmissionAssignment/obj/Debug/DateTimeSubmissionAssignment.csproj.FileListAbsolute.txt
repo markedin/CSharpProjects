@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\DateTimeSubmissionAssignment\bin\Debug\DateTimeSubmissionAssignment.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\DateTimeSubmissionAssignment\bin\Debug\DateTimeSubmissionAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\DateTimeSubmissionAssignment\bin\Debug\DateTimeSubmissionAssignment.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\DateTimeSubmissionAssignment\obj\Debug\DateTimeSubmissionAssignment.pdb

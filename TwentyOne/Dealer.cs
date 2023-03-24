@@ -16,10 +16,11 @@ namespace TwentyOne
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
-            string card = string.Format(Deck.Cards.First().ToString() + "\n");
+            string card = string.Format(Deck.Cards.First().ToString());
             Console.WriteLine(card);
             using (StreamWriter file = new StreamWriter("C:\\Users\\edinm\\logs\\logs.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
             Deck.Cards.RemoveAt(0);
