@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\InputAssignment\bin\Debug\InputAssignment.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\InputAssignment\bin\Debug\InputAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\InputAssignment\bin\Debug\InputAssignment.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\InputAssignment\obj\Debug\InputAssignment.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\InputAssignment\obj\Debug\InputAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\InputAssignment\obj\Debug\InputAssignment.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\InputAssignment\obj\Debug\InputAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\InputAssignment\obj\Debug\InputAssignment.pdb
