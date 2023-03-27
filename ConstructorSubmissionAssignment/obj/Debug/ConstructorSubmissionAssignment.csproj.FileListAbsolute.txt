@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ConstructorSubmissionAssignment\bin\Debug\ConstructorSubmissionAssignment.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ConstructorSubmissionAssignment\bin\Debug\ConstructorSubmissionAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ConstructorSubmissionAssignment\bin\Debug\ConstructorSubmissionAssignment.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ConstructorSubmissionAssignment\obj\Debug\ConstructorSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ConstructorSubmissionAssignment\obj\Debug\ConstructorSubmissionAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ConstructorSubmissionAssignment\obj\Debug\ConstructorSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ConstructorSubmissionAssignment\obj\Debug\ConstructorSubmissionAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\ConstructorSubmissionAssignment\obj\Debug\ConstructorSubmissionAssignment.pdb

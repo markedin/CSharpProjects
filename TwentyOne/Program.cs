@@ -1,20 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Runtime.Serialization.Formatters;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
+using Casino;
+using Casino.TwentyOne;
 
-namespace TwentyOne
+namespace Casino
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
-            
+
+            Guid identifier = new Guid.NewGuid();
 
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
@@ -25,7 +21,14 @@ namespace TwentyOne
             if(answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
-                Game game = new TwentyOneGame();
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter("C:\\Users\\edinm\\logs\\log.txt", true))
+                {
+                    file.WriteLine(DateTime.Now);
+                    file.WriteLine(player.Id);
+                }
+
+                    Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;
                 while (player.isActivelyPlaying && player.Balance > 0)

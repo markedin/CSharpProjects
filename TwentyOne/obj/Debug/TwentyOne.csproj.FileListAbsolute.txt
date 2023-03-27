@@ -6,3 +6,6 @@ C:\Users\edinm\Documents\GitHub\CSharpProjects\TwentyOne\obj\Debug\TwentyOne.csp
 C:\Users\edinm\Documents\GitHub\CSharpProjects\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\edinm\Documents\GitHub\CSharpProjects\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\edinm\Documents\GitHub\CSharpProjects\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\TwentyOne\bin\Debug\Casino.dll
+C:\Users\edinm\Documents\GitHub\CSharpProjects\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
