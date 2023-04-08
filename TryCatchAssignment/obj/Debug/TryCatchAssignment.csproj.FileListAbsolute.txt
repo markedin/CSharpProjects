@@ -1,0 +1,8 @@
+C:\Users\edinm\Documents\GitHub\CSharpProjects\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe.config
+C:\Users\edinm\Documents\GitHub\CSharpProjects\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\TryCatchAssignment\bin\Debug\TryCatchAssignment.pdb
+C:\Users\edinm\Documents\GitHub\CSharpProjects\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.AssemblyReference.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\edinm\Documents\GitHub\CSharpProjects\TryCatchAssignment\obj\Debug\TryCatchAssignment.exe
+C:\Users\edinm\Documents\GitHub\CSharpProjects\TryCatchAssignment\obj\Debug\TryCatchAssignment.pdb

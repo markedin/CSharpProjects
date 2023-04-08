@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0vXDgCw0EUDu86beg5GViYGIqE8zyAzzR9lhJzM4ShjyFW/r0upA4YwgHA/UV/ZqD0OBEFeDad1doFWC9Vv3vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edinm\\Documents\\GitHub\\CSharpProjects\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edinm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
